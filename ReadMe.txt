@@ -1,0 +1,1 @@
+This is a simple program that calculates how many cookies for everyone in the party!
